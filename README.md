@@ -12,6 +12,6 @@
 
 *![](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=ffffff)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff)
+![](https://img.shields.io/badge/CLion-000000?style=flat&logo=visual-studio&logoColor=ffffff)
 ![](https://img.shields.io/badge/PyCharm%20CE-000000?style=flat&logo=pycharm&logoColor=ffffff)
 ![](https://img.shields.io/badge/IntelliJ%20IDEA%20CE-000000?style=flat&logo=IntelliJ-IDEA&logoColor=ffffff)
