@@ -17,4 +17,8 @@
 ![](https://img.shields.io/badge/IntelliJ%20IDEA%20CE-000000?style=flat&logo=IntelliJ-IDEA&logoColor=ffffff)
 ![](https://img.shields.io/badge/Visual%20Studio-8A2BE2?style=flat&logo=visual-studio&logoColor=ffffff)
 
-![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=ffffff)
+*![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=ffffff)
+![](https://img.shields.io/badge/FreeCAD-808080?style=flat)
+
+*![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
