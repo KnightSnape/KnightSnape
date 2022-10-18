@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### ⚡ 技术栈 | Tech Stack
-![](https://img.shields.io/badge/-C/C++-A8B9CC?style=flat&logo=cpp&logoColor=ffffff)
+![](https://img.shields.io/badge/-C/C++-A8B9CC?style=flat&logo=c&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=ffffff)
