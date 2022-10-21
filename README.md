@@ -30,5 +30,6 @@
 
 ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=ffffff)
 ![](https://img.shields.io/badge/-OpenCV-A8B9CC?style=flat&logo=opencv&logoColor=ffffff)
+![](https://img.shields.io/badge/-Ceres-A8B9CC?style=flat&logo=ceres&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-QT-808080?style=flat)
