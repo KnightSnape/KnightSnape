@@ -31,13 +31,3 @@
 ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-QT-808080?style=flat)
-
-@software{Agarwal_Ceres_Solver_2022,
-  author = {Agarwal, Sameer and Mierle, Keir and The Ceres Solver Team},
-  title = {{Ceres Solver}},
-  license = {Apache-2.0},
-  url = {https://github.com/ceres-solver/ceres-solver},
-  version = {2.1},
-  year = {2022},
-  month = {3}
-}
