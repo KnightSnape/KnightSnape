@@ -32,4 +32,4 @@
 ![](https://img.shields.io/badge/-OpenCV-A8B9CC?style=flat&logo=opencv&logoColor=fffffa)
 ![](https://img.shields.io/badge/-Ceres-A8B9CC?style=flat&logo=ceres&logoColor=ffffff)
 
-![](https://img.shields.io/badge/-QT-0000FF?style=flat&logo=qt&logoColor=ffffff)
+![](https://img.shields.io/badge/-QT-00FF00?style=flat&logo=qt&logoColor=ffffff)
